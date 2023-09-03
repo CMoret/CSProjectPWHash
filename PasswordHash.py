@@ -1,3 +1,4 @@
+#PasswordHash
 #This program hashes a password of choice
 import bcrypt
 
