@@ -1,5 +1,8 @@
 #Hash it
 
+Read Me in progress...
+
+
 Language: Python
 
 IDE: Visual Studio
